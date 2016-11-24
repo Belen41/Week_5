@@ -1,0 +1,38 @@
+.logo{
+	position:relative;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+.menu{
+	position:relative;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+}	
+.menu ul{
+	padding: 0;
+	margin: 0;
+}
+.menu li{
+	float: left;
+	list-style-type: none;
+}
+.menu a{
+	display: inline-block;
+	width: auto;
+	padding: 19px 10px;
+	height: 100%;
+	background-color: #ffffff;
+	color: #696969;
+	text-decoration: none;
+	line-height: 100%;
+	text-align: center;
+}
+.img{
+	width: 50%;
+	display: block;
+	-webkit-filter: grayscale(100%);
+}
